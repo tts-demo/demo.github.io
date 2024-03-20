@@ -27,5 +27,5 @@ plugins:
 target-blank:
     rel: nofollow
     
-header_page_refs: ['ge_lj_n', 'sim']
+header_page_refs: ['test_ge_lj_n', 'sim']
 # header_page_refs: ['now', 'about', 'contact']
