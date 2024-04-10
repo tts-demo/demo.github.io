@@ -27,5 +27,5 @@ plugins:
 target-blank:
     rel: nofollow
     
-header_page_refs: ['ge_lj_n', 'ge_vc_n', 'exp_vc_n', 'exp_vc_s', 'exp_esd_n', 'exp_esd_s']
-# header_page_refs: ['now', 'about', 'contact']
+header_page_refs: ['exp_vc_n', 'exp_vc_s', 'exp_esd_n', 'exp_esd_s'] # 'ge_lj_n', 'ge_vc_n',
+# header_page_refs: ['now', 'about', 'contact'] 
